@@ -1,4 +1,4 @@
-### Hi! 👋 I am Destiny Rogers
+# Hi! 👋 I am Destiny Rogers
 -  📍 Currently in San Francisco, CA
 -  🚀 Passionate about Frontend and Fullstack Development
 -  🌱 Lover of Earth
