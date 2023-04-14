@@ -1,6 +1,6 @@
 # Hi! 👋 I am Destiny Rogers
 -  📍 Currently in San Francisco, CA
--  🚀 Passionate about Frontend and Fullstack Development
+-  🚀 Passionate about Software and Fullstack Development
 -  🌱 Lover of Earth
 -   🐦  Let's connect  on **[Twitter](https://twitter.com/DATAM0SH3R "Twitter")**
 -  💻 Or Chat further on **[Linkedin](https://www.linkedin.com/in/destiny-rogers/)**
