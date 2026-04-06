@@ -5,7 +5,7 @@
 -   🐦  Let's connect  on **[Twitter](https://twitter.com/DATAM0SH3R "Twitter")**
 -  💻 Or Chat on **[Linkedin](https://www.linkedin.com/in/destiny-rogers/)**
 
-I am a Software Engineer at Twitter previously at Hewlett Packard Enterprise. I am curious and passionate about learning new 
+I am a Software Engineer at Estee Lauder Companies previously at Twitter and Hewlett Packard Enterprise. I am curious and passionate about learning new 
 technologies and the innovative ideas that tech can produce. In my free time I work on personal projects related to Frontend.
 I love animals, nature, music and art so my projects tend to reflect that. 
 <!--
