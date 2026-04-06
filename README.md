@@ -2,7 +2,7 @@
 -  📍 Currently in San Francisco, CA
 -  🚀 Passionate about Software and Fullstack Development
 -  🌱 Lover of Earth
--  💻 Or Chat on **[Linkedin](https://www.linkedin.com/in/destiny-rogers/)**
+-  💻 Lets chat on **[Linkedin](https://www.linkedin.com/in/destiny-rogers/)**
 
 I am a Software Engineer at Estee Lauder Companies previously at Twitter and Hewlett Packard Enterprise. I am curious and passionate about learning new 
 technologies and the innovative ideas that tech can produce. In my free time I work on personal projects related to Frontend.
