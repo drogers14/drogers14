@@ -1,11 +1,13 @@
 # Hi! 👋 I am Destiny Rogers
 -  📍 Currently in San Francisco, CA
--  🚀 Passionate about Software and Fullstack Development
+-  🚀 Software Engineer focused on QA and Fullstack Development
 -  🌱 Lover of Earth
 -  💻 Lets chat on **[Linkedin](https://www.linkedin.com/in/destiny-rogers/)**
 
-I am a Software Engineer at Estee Lauder Companies previously at Twitter and Hewlett Packard Enterprise. I am curious and passionate about learning new 
-technologies and the innovative ideas that tech can produce. In my free time I work on personal projects related to Frontend.
+I am a Quality Automation Engineer at Estee Lauder Companies, previously at Twitter and Hewlett Packard Enterprise. I am curious and passionate about learning new 
+technologies and the innovative ideas that tech can produce. 
+
+In my free time I work on personal projects related to Frontend.
 I love animals, nature, music and art so my projects tend to reflect that. 
 <!--
 **drogers14/drogers14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
