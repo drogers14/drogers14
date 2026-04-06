@@ -3,7 +3,7 @@
 -  🚀 Passionate about Software and Fullstack Development
 -  🌱 Lover of Earth
 -   🐦  Let's connect  on **[Twitter](https://twitter.com/DATAM0SH3R "Twitter")**
--  💻 Or Chat further on **[Linkedin](https://www.linkedin.com/in/destiny-rogers/)**
+-  💻 Or Chat on **[Linkedin](https://www.linkedin.com/in/destiny-rogers/)**
 
 I am a Software Engineer at Twitter previously at Hewlett Packard Enterprise. I am curious and passionate about learning new 
 technologies and the innovative ideas that tech can produce. In my free time I work on personal projects related to Frontend.
