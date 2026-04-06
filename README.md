@@ -2,7 +2,6 @@
 -  📍 Currently in San Francisco, CA
 -  🚀 Passionate about Software and Fullstack Development
 -  🌱 Lover of Earth
--   🐦  Let's connect  on **[Twitter](https://twitter.com/DATAM0SH3R "Twitter")**
 -  💻 Or Chat on **[Linkedin](https://www.linkedin.com/in/destiny-rogers/)**
 
 I am a Software Engineer at Estee Lauder Companies previously at Twitter and Hewlett Packard Enterprise. I am curious and passionate about learning new 
@@ -21,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-  🐦  Let's connect  on **[Twitter](https://twitter.com/DATAM0SH3R "Twitter")**
+
 -->
